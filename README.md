@@ -1,2 +1,2 @@
 # budget_app
-this is an quick budget app 
+this is a quick budget app 
